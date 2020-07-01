@@ -35,7 +35,7 @@ Before the tool can be run, the user must obtain image files for each frame in t
 #### Obtaining input data
 Input data can be provided through an [FML] query. When an appropriate sequence is found using FML, the user will need to copy the file path of the associated MF4 file of the sequence, and extract image frames using the rb_seq_access_nrcs_test.exe tool. 
 
-To get the corresponding xlsx file, the user will need to find the associated xml file in the following directory (\\abtvdfs2.de.bosch.com\ismdfs\ida\abt\video\Platform_NRC_Gen2\AutDevData\DAI_Parken 5.0\sequences), download that file and input it into the parsePhylosis.m tool. 
+To get the corresponding xlsx file, the user will need to find the associated xml file in the following directory (REDACTED FOR PUBLIC VIEWING), download that file and input it into the parsePhylosis.m tool. 
 
 ----
 ## Running the function
@@ -59,7 +59,7 @@ The user is able to test and analyze results from multiple input thresholds, and
 ----
 [//]: # (Var Defs)
 
-[FML]: <http://rb-fml.de.bosch.com/#/sequences?tiles=true>
+[FML]: <REDACTED FOR PUBLIC VIEW>
 [Image Ground Truth Analysis README]: <Threshold_Extraction/README.md>
 [Image Ground Truth Testing README]: <Threshold_Testing/README.md>
 [Image Graphing README]: <Visualization_Test_Results/README.md>
